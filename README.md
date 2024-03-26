@@ -84,7 +84,7 @@
 
 1. Now, let’s update the email to the correct email. 
 
-2. Below the BUTTON 1 comment, replace the text "[mailto:user@domain.ext](mailto:user@domain.ext)" with your email. Don’t forget to keep the `mailto:` and quotes there.
+2. Below the BUTTON 1 comment, replace the text "[user@domain.ext](mailto:user@domain.ext)" with your email. Don’t forget to keep the `mailto:` and quotes there.
 	- If a lot of text turns red, then you may have accidentally deleted a quote or another symbol. To undo, use the Control+Z or Command+Z shortcut.
 
 ## Editing Links (External Website):
@@ -198,7 +198,7 @@ These steps are slightly more condensed because they assume knowledge of basic f
 
 1. Now, let’s update the email to the correct email. 
 
-2. Below the BUTTON 1 comment, replace the text "[mailto:user@domain.ext](mailto:user@domain.ext)" with your email. Don’t forget to keep the `mailto:` and quotes there.
+2. Below the BUTTON 1 comment, replace the text "[user@domain.ext](mailto:user@domain.ext)" with your email. Don’t forget to keep the `mailto:` and quotes there.
 
 	- Be careful not to accidentally delete a quote or another symbol. To undo, use the Control+Z or Command+Z shortcut.
 
