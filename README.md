@@ -95,6 +95,7 @@
 9. There is already a link to the resume in the About section 'EDITME About Section' but if you wish to insert your resume elsewhere, here is the HTML (assuming you named your resume `resume.pdf`).
    `<a href="assets/resume.pdf">EDITME TEXT HERE</a>`
 10. Note that clicking links in the online editor might not work, but it will when you publish the webpage. To verify that your links are correct, you can open the folder from your desktop/documents folder and open `index.html` in a web browser. All the links should now function correctly, but if you make changes they won't refresh immediately.
+11. You can also upload a headshot or profile picture in the same way you did for the resume (this time it's in the 'EDITME Profile Image' section), and change out the name of `profile-pic.jpg` for the filename of your image.
 
 Continue to the [publishing your website for free](#publishing-your-website-for-free) section
 
@@ -172,6 +173,7 @@ These steps are slightly more condensed because they assume knowledge of basic f
 6. There is already a link to the resume in the About section 'EDITME About Section' but if you wish to insert your resume elsewhere, here is the HTML (assuming you named your resume `resume.pdf`).
      `<a href="assets/resume.pdf">EDITME TEXT HERE</a>`
 7. To verify that your links are correct, you can open `index.html` in a web browser. All the links you've edited should now function correctly. Also verify that `index.html` is saved and then refresh your browser if something isn't updated.
+8. You can also upload a headshot or profile picture in the same way you did for the resume (this time it's in the 'EDITME Profile Image' section), and change out the name of `profile-pic.jpg` for the filename of your image.
 
 Continue to the [publishing your website for free](#publishing-your-website-for-free) section
 
