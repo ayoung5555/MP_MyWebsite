@@ -141,7 +141,7 @@
 
 11. You can also upload a headshot or profile picture in the same way you did for the resume (this time it's in the 'EDITME Profile Image' section), and change out the name of `profile-pic.jpg` for the filename of your image.
 
-Continue to the [publishing your website for free](#publishing-your-website-for-free) section
+Make sure to save everything by going to `File > Save All`. Continue to the [publishing your website for free](#publishing-your-website-for-free) section
 
 ***
 
