@@ -23,7 +23,7 @@
 # Getting Started *without* a code editor like VSCode, XCode, etc
 
 1. Create an easily accessible folder in your Documents folder or Desktop
-2. Navigate to [https://brackets.io](brackets.io)
+2. In a new tab, go to [https://brackets.io/](https://brackets.io/)
 	- Launch web editor
 3. Import project - Github project
 	- Paste link to ayoung5555.github.io git repo
