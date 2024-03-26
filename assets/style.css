@@ -384,8 +384,11 @@ body.is-instant:after {
 
 #image01 .frame {
     width: 7rem;
+    min-width: 7rem;
+    max-width: 7rem;
     height: 7rem;
-    object-fit: fill;
+    min-height: 7rem;
+    max-height: 7rem;
     border-radius: 100%;
     transition: none;
 }
@@ -395,7 +398,6 @@ body.is-instant:after {
     object-fit: cover;
     height: inherit;
     width: inherit;
-
 }
 
 h1,
