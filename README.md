@@ -2,19 +2,33 @@
 ***
 ## Contents
 - Tutorial without a code editor
+
 	- [Getting Started](#getting-started-without-a-code-editor-like-vscode-xcode-etc)
+
 	- [Removing Buttons & Content](#removing-buttons--content-twitter)
+
 	- [Editing Links 1](#editing-links-email)
+
 	- [Editing Links 2](#editing-links-external-website)
+
 	- [Adding Content](#adding-content-bullet-points)
+
 	- [Editing Content](#editing-content-resume)
+
 - Tutorial with a code editor
+
 	- [Getting Started](#getting-started-with-a-code-editor-like-vscode-xcode-etc)
+
 	- [Removing Buttons & Content](#removing-buttons--content-twitter-1)
+
 	- [Editing Links 1](#editing-links-email-1)
+
 	- [Editing Links 2](#editing-links-external-website-1)
+
 	- [Adding Content](#adding-content-bullet-points-1)
+
 	- [Editing Content](#editing-content-resume-1)
+	
 - Publishing your website for free
 	- [GitHub Pages](#using-github-pages)
 	- incomplete section
@@ -24,23 +38,37 @@
 
 1. Create an easily accessible folder in your Documents folder or Desktop
 2. In a new tab, go to [https://brackets.io/](https://brackets.io/)
+
 	- Launch web editor
+
 3. Import project - Github project
+
 	- Paste link to ayoung5555.github.io git repo
 	- Import the folder you created in step 1
+
 4. Click trust/accept/execute
 5. On the left side file explorer, click on index.html
+
 	- A preview should appear
+
 6. To simplify the interface, toggle the triangle to the right of line number 19
+
     - This is the line that starts with `<svg xmlns...`
     - This hides the code used to show the contact/social media icons
+
 7. In the menu at the top (File/Edit/Find/View/Navigate/Debug/Help)
+
 	- Navigate to Find and click Find
 	- Note that you can use CTRL + F or COMMAND + F as a shortcut
+
 8. Once the Find popup has opened, type in EDITME
+
 	- This will highlight all the places that you should make changes!
+
 9. Don’t edit blue, green, or orange text unless you are familiar with HTML
+
 	- Instructions on what to modify continue below
+
 10. Let's move on modifying bigger parts of the HTML first!
 
 ## Removing Buttons & Content (Twitter):
