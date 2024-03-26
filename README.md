@@ -287,7 +287,7 @@ Continue to the [publishing your website for free](#publishing-your-website-for-
 	 ![](https://lh7-us.googleusercontent.com/-VjpL7s2a__HIp06VGJMyaIIF-DWpM-lmqyVXWdLTfzTPY02RODA7cfbSxgN_DrvkNWTjo-Yxcn_iro4dZz40_Oy5WtuZPFe3veS8T69SzbQKJjMZmvT5giqCDRY-HmRSCzuDWBPB4Og3AB6x7V51KE)
 
 
-8. **\*\*IMPORTANT\*\*** When you get to the next page, open your desktop/documents in file explorer or finder. Navigate to the folder you originally created in step 1. Select **ALL** the files **and** folders within the project folder that you created (including `assets` and `index.html`) and upload them by drag and drop. You must use drag and drop for the folders to upload correctly.
+8. **\*\*IMPORTANT\*\*** When you get to the next page, open your desktop/documents in file explorer or finder. Navigate to the folder you originally created in step 1. Select **ALL** the files **and** folders within the project folder that you created (including `assets` and `index.html`) and upload them by drag and drop. You must use drag and drop for the folders to upload correctly. You do not need to upload `README.md`.
 
 	![](https://lh7-us.googleusercontent.com/jZhu7SWYuhMI-4ZBFE6GBsPnyhIldbKhJ8DY70yLiOl9lqjQsyoQmoHW_QIk8auuY4GlmYB_yDaPv7r08l1CxIWhEf3TyiAIzLhy9zsbnlQJ6PNEnggDwSOd-xhNXzy2htuYZ_vvo9xgSi0C80isJzo)
 
