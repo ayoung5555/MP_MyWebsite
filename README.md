@@ -267,7 +267,7 @@ Continue to the [publishing your website for free](#publishing-your-website-for-
 
 2. If you are *not* familiar with creating a repo from the command line or your IDE, skip to step 3 (If you don't know what this is, still skip to step 3).
 
-	- If you *are* comfortable with this, feel free to create and push a public repo called `<username>/github.io`. If you do this successfully, your website should be live on `https://<username>.github.io` within 20-30 seconds. (You can choose private if you have GitHub Pro, otherwise it won't work)
+	- If you *are* comfortable with this, feel free to create and push a public repo called `<username>/github.io`. If you do this successfully, your website should be live on `https://<username>.github.io` within 30-45 seconds. (You can choose private if you have GitHub Pro, otherwise it won't work)
 
 3. In the top right hand corner, click the `+` icon and the 'New Repository' link
 
@@ -295,7 +295,7 @@ Continue to the [publishing your website for free](#publishing-your-website-for-
 
 	![](https://lh7-us.googleusercontent.com/LRmzAVFmrOeQEHJLpGMYm2VoqWsdHtKy_LgfcHqXTbClcs5i726VQk3GGBUS3qyLTWy4SdzNkgPJJiPH6fDqzhAb-hk9nBNVIsjCdMXrR1KY5NADWIH-eJIx3kE21L-VfBbU53BGl9odnA0ZVf6-Ycc)
 
-10. Wait 20-30 seconds, then refresh the page. If you see the green checkmark like in the image below, then proceed to the next step. Otherwise, repeat this step.
+10. Wait 30-45 seconds, then refresh the page. If you see the green checkmark like in the image below, then proceed to the next step. Otherwise, repeat this step.
 
 	![](https://lh7-us.googleusercontent.com/kfpBOWtId-KK0zmSJnzsJGPmuxDv4JG30knOkouwwR424DyaI7wwsgCfMZFW1YXzbYaGEQ12tREZ9Wv4h8yPBL9f1mTi0fwoaO82WYpuSC3aRemx9lSFAEvsn69k3tnLbEKSP3aY2IECFr5bi5Z0iV4)
 
