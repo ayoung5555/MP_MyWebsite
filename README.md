@@ -1,8 +1,8 @@
 ***
 ## Contents
 - Tutorial without a code editor
-	- [Getting Started]
-	- [Removing Buttons & Content](#Removing Buttons & Content (Twitter))
+	- [Getting Started](#getting-started-without-a-code-editor-like-vscode-xcode-etc)
+	- [Removing Buttons & Content](#Removing-Buttons-&-Content-(Twitter))
 	- [Editing Links 1](#Editing Links (Email))
 	- [Editing Links 2](#Editing Links (External Website))
 	- [Adding Content](#Adding Content (Bullet Points))
