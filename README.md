@@ -17,7 +17,7 @@
 	- [Editing Content](#editing-content-resume-1)
 - Publishing your website for free
 	- [GitHub Pages](#using-github-pages)
-	- incomplete section
+	- Custom Domain Instructions Coming Soon
 
 ***
 # Getting Started *without* a code editor like VSCode, XCode, etc
@@ -29,7 +29,8 @@
 
 3. Import project - Github project
 
-	- Paste link to ayoung5555.github.io git repo
+	- Paste the link to this GitHub repository: `https://github.com/ayoung5555/personal-website-guide`
+
 	- Import the folder you created in step 1
 
 4. Click trust/accept/execute
@@ -151,7 +152,7 @@ These steps are slightly more condensed because they assume knowledge of basic f
 
 1. Create a project folder on your computer
 
-2. Do not simply clone [this repo](https://github.com/ayoung5555/ayoung5555.github.io.git):
+2. Do not simply clone [this repo](https://github.com/ayoung5555/personal-website-guide.git):
 	
 	- Instead, select `Download ZIP` under the green `Code` dropdown button
 
@@ -161,13 +162,13 @@ These steps are slightly more condensed because they assume knowledge of basic f
 
 3. Open your IDE and open the index.html file
 
-4. To simplify things, minify the code block on line 19
+4. To simplify the appearance of the HTML, collapse the code block on line 19
 
     - This is the line that starts with `<svg xmlns...`
 
     - This hides the code used to show the contact/social media icons
 
-5. Do a Control+F or Command+F search for 'EDITME'
+5. Do a `Control+F` or `Command+F` search for 'EDITME'
 
 	- This will highlight all the places that you should make changes before you upload.
 
@@ -179,7 +180,7 @@ These steps are slightly more condensed because they assume knowledge of basic f
 1. As an example, let's remove the link to Twitter
     
 2. Navigate to “EDITME Contact Information”
-	- You can use CTRL+F or Command+F
+	- You can use `CTRL+F` or `Command+F`
     
 3. Note that one of the buttons (should be button 2) contains the text “Twitter/X”
     
@@ -191,7 +192,7 @@ These steps are slightly more condensed because they assume knowledge of basic f
 
 5. If the Twitter button is gone, then you've done this part correctly!
 
-6. Feel free to remove any other buttons you don't want to be on your website, like the Phone button or Instagram button. Note that unless you have a live preview extension like [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms.vscode.live-server)(highly recommend), you will have to save and refresh the page every time you want to see a change.
+6. Feel free to remove any other buttons you don't want to be on your website, like the Phone button or Instagram button. Note that unless you have a live preview extension like [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms.vscode.live-server) (highly recommend), you will have to open the html file in a web browser, then save and refresh the page every time you want to see a change.
 
 ## Editing Links (Email):
 
@@ -260,13 +261,13 @@ Continue to the [publishing your website for free](#publishing-your-website-for-
 
 
 ## Using GitHub Pages
-1. Create a [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=ayoung5555%2Fayoung5555.github.io) account if you don't already have one.
+1. Create a [GitHub](https://github.com/signup) account if you don't already have one.
 
 	- Make your username close to your real name: your username is the start of your website URL
 
-2. If you are *not* familiar with creating a repo from the command line or your IDE, skip to step 3.
+2. If you are *not* familiar with creating a repo from the command line or your IDE, skip to step 3 (If you don't know what this is, still skip to step 3).
 
-	- If you *are*, feel free to create and push a public repo called `<username>/github.io`. If you do this successfully, your website should be live on `https://<username>.github.io` within 20-30 seconds. (You can choose private only if you have GitHub Pro)
+	- If you *are* comfortable with this, feel free to create and push a public repo called `<username>/github.io`. If you do this successfully, your website should be live on `https://<username>.github.io` within 20-30 seconds. (You can choose private if you have GitHub Pro, otherwise it won't work)
 
 3. In the top right hand corner, click the `+` icon and the 'New Repository' link
 
@@ -299,6 +300,15 @@ Continue to the [publishing your website for free](#publishing-your-website-for-
 	![](https://lh7-us.googleusercontent.com/kfpBOWtId-KK0zmSJnzsJGPmuxDv4JG30knOkouwwR424DyaI7wwsgCfMZFW1YXzbYaGEQ12tREZ9Wv4h8yPBL9f1mTi0fwoaO82WYpuSC3aRemx9lSFAEvsn69k3tnLbEKSP3aY2IECFr5bi5Z0iV4)
 
 11. Visit `https://<yourusername>.github.io`! Your website is now live!
+
+## Publish a website with a custom domain:
+
+Section Incomplete.
+
+Potentially helpful links if you want to DIY:
+- https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site
+- https://blog.cloudflare.com/secure-and-fast-github-pages-with-cloudflare
+
 
 ***
 
