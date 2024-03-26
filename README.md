@@ -25,7 +25,7 @@ Demo may be viewed at [https://asyoungtesting.github.io/](https://asyoungtesting
 # Getting Started *without* a code editor like VSCode, XCode, etc
 
 1. Create an easily accessible folder in your Documents folder or Desktop
-2. In a new tab, go to [https://brackets.io/](https://brackets.io/)
+2. In a new tab, go to [https://phcode.io/](https://phcode.io/)
 
 	- Launch web editor
 
