@@ -33,7 +33,7 @@
 	- Import the folder you created in step 1
 
 4. Click trust/accept/execute
-5. On the left side file explorer, click on index.html
+5. On the left side file explorer, click on `index.html`
 
 	- A preview should appear
 
@@ -44,8 +44,8 @@
 
 7. In the menu at the top (File/Edit/Find/View/Navigate/Debug/Help)
 
-	- Navigate to Find and click Find
-	- Note that you can use CTRL + F or COMMAND + F as a shortcut
+	- Navigate to Find and click `Find`
+	- Note that you can use `CTRL + F` or `COMMAND + F` as a shortcut
 
 8. Once the Find popup has opened, type in EDITME
 
@@ -60,10 +60,10 @@
 ## Removing Buttons & Content (Twitter):
 
 
-1. As an example, let's remove the link to Twitter
+1. As an example, let's remove the link to Twitter.
     
 2. Navigate to “EDITME Contact Information”
-	- You can use CTRL+F or Command+F
+	- You can use `CTRL+F` or `Command+F`
     
 3. Note that one of the buttons (should be button 2) contains the text “Twitter/X”
     
@@ -116,7 +116,7 @@
 
 2. Let's add your resume to the website. 
 
-3. First, on the left-hand side file explorer, click the assets folder to open it.
+3. First, on the left-hand side file explorer, click the `assets` folder to open it.
 
 4. Right click and delete `resume.pdf`
 
@@ -130,14 +130,14 @@
 
 7. On the file explorer on the left-hand side, right click to open the context menu.
 
-8. At the bottom of the context menu, click the option to 'Refresh File Tree'. This may take a few seconds, but you should confirm that your resume is in the assets folder.
+8. At the bottom of the context menu, click the option to `'Refresh File Tree'`. This may take a few seconds, but you should confirm that your resume is in the assets folder.
 
-9. There is already a link to the resume in the About section 'EDITME About Section' but if you wish to insert your resume elsewhere, here is the HTML (assuming you named your resume `resume.pdf`).
+9. There is already a link to the resume in the About section 'EDITME About Section' but if you wish to insert a link your resume elsewhere, here is the HTML (assuming you named your resume `resume.pdf` and it is located in the assets folder).
 
 	 `<a href="assets/resume.pdf">EDITME TEXT HERE</a>`
 
 
-10. Note that clicking links in the online editor might not work, but it will when you publish the webpage. To verify that your links are correct, you can open the folder from your desktop/documents folder and open `index.html` in a web browser. All the links should now function correctly, but if you make changes they won't refresh immediately.
+10. Note that clicking links in the online editor might not work, but it will when you publish the webpage. To verify that your links are correct, you can go to the project folder located in your desktop/documents folder and open `index.html` in a web browser by double clicking. All the links you have updated should now function correctly, but if you make changes they won't refresh immediately.
 
 11. You can also upload a headshot or profile picture in the same way you did for the resume (this time it's in the 'EDITME Profile Image' section), and change out the name of `profile-pic.jpg` for the filename of your image.
 
@@ -153,7 +153,7 @@ These steps are slightly more condensed because they assume knowledge of basic f
 
 2. Do not simply clone [this repo](https://github.com/ayoung5555/ayoung5555.github.io.git):
 	
-	- Instead, select 'Download ZIP' under the green 'Code' dropdown button
+	- Instead, select `Download ZIP` under the green `Code` dropdown button
 
 	- This is so you do not have to deal with changing the git remote settings and will save you time
 
@@ -284,9 +284,11 @@ INCOMPLETE - IGNORE THIS FOR NOW
 	 ![](https://lh7-us.googleusercontent.com/-VjpL7s2a__HIp06VGJMyaIIF-DWpM-lmqyVXWdLTfzTPY02RODA7cfbSxgN_DrvkNWTjo-Yxcn_iro4dZz40_Oy5WtuZPFe3veS8T69SzbQKJjMZmvT5giqCDRY-HmRSCzuDWBPB4Og3AB6x7V51KE)
 
 
-8. On the next page, click choose your files and navigate to the folder you originally created in step 1. Select ALL the files and folders within the folder that you created (including `assets` and `index.html`) and upload them.
+8. **\*\*IMPORTANT\*\*** When you get to the next page, open your desktop/documents in file explorer or finder. Navigate to the folder you originally created in step 1. Select **ALL** the files **and** folders within the project folder that you created (including `assets` and `index.html`) and upload them by drag and drop. You must use drag and drop for the folders to upload correctly.
 
-9. Wait for GitHub to finish uploading them, then scroll down and click the green "Commit changes" button.
+	![](https://lh7-us.googleusercontent.com/jZhu7SWYuhMI-4ZBFE6GBsPnyhIldbKhJ8DY70yLiOl9lqjQsyoQmoHW_QIk8auuY4GlmYB_yDaPv7r08l1CxIWhEf3TyiAIzLhy9zsbnlQJ6PNEnggDwSOd-xhNXzy2htuYZ_vvo9xgSi0C80isJzo)
+
+9. Wait for GitHub to finish uploading them, then scroll down and click the green `Commit changes` button.
 
 10. Once it's finished, navigate to the repository settings:
 
