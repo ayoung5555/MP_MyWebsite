@@ -257,14 +257,16 @@ Continue to the [publishing your website for free](#publishing-your-website-for-
 ***
 
 # Publishing your website for free
-INCOMPLETE - IGNORE THIS FOR NOW
+
 
 ## Using GitHub Pages
 1. Create a [GitHub](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=ayoung5555%2Fayoung5555.github.io) account if you don't already have one.
 
 	- Make your username close to your real name: your username is the start of your website URL
 
-2. If you are familiar with creating a repo from the command line or your IDE, skip ahead to step X, otherwise continue on the GitHub website.
+2. If you are *not* familiar with creating a repo from the command line or your IDE, skip to step 3.
+
+	- If you *are*, feel free to create and push a public repo called `<username>/github.io`. If you do this successfully, your website should be live on `https://<username>.github.io` within 20-30 seconds. (You can choose private only if you have GitHub Pro)
 
 3. In the top right hand corner, click the `+` icon and the 'New Repository' link
 
@@ -288,12 +290,16 @@ INCOMPLETE - IGNORE THIS FOR NOW
 
 	![](https://lh7-us.googleusercontent.com/jZhu7SWYuhMI-4ZBFE6GBsPnyhIldbKhJ8DY70yLiOl9lqjQsyoQmoHW_QIk8auuY4GlmYB_yDaPv7r08l1CxIWhEf3TyiAIzLhy9zsbnlQJ6PNEnggDwSOd-xhNXzy2htuYZ_vvo9xgSi0C80isJzo)
 
-9. Wait for GitHub to finish uploading them, then scroll down and click the green `Commit changes` button.
+9. Wait for GitHub to finish uploading them, then scroll down and click the green `Commit changes` button. Your uploads should look something like the picture below.
 
-10. Once it's finished, navigate to the repository settings:
+	![](https://lh7-us.googleusercontent.com/LRmzAVFmrOeQEHJLpGMYm2VoqWsdHtKy_LgfcHqXTbClcs5i726VQk3GGBUS3qyLTWy4SdzNkgPJJiPH6fDqzhAb-hk9nBNVIsjCdMXrR1KY5NADWIH-eJIx3kE21L-VfBbU53BGl9odnA0ZVf6-Ycc)
 
+10. Wait 20-30 seconds, then refresh the page. If you see the green checkmark like in the image below, then proceed to the next step. Otherwise, repeat this step.
 
-    ![](https://lh7-us.googleusercontent.com/O7ObxMfWQkYl_tZo9tfX7zx9-t6NFGtwEhlm_ArdnSPD6_gtF4itmT4ZXHNZhApk_dK42jXB5pi4js8KV-S1LsGlRBIMEy01_5PBCcIREHsaO4heH-DXN3AmDRF9QzQJRU-oUCCXSprLR8aMTXMl5B8)
+	![](https://lh7-us.googleusercontent.com/kfpBOWtId-KK0zmSJnzsJGPmuxDv4JG30knOkouwwR424DyaI7wwsgCfMZFW1YXzbYaGEQ12tREZ9Wv4h8yPBL9f1mTi0fwoaO82WYpuSC3aRemx9lSFAEvsn69k3tnLbEKSP3aY2IECFr5bi5Z0iV4)
 
+11. Visit `https://<yourusername>.github.io`! Your website is now live!
 
-11. On the left side, in the 'Code and automation' category, go to the 'Pages' section
+***
+
+Guide created by [Andrew Young](https://andrewyou.ng/) in March 2024. 
