@@ -96,7 +96,7 @@
    `<a href="assets/resume.pdf">EDITME TEXT HERE</a>`
 10. Note that clicking links in the online editor might not work, but it will when you publish the webpage. To verify that your links are correct, you can open the folder from your desktop/documents folder and open `index.html` in a web browser. All the links should now function correctly, but if you make changes they won't refresh immediately.
 
-Continue to the '[[#Publishing your website for free]]' section
+Continue to the [publishing your website for free](#publishing-your-website-for-free) section
 
 ***
 
@@ -127,7 +127,9 @@ These steps are slightly more condensed because they assume knowledge of basic f
     
 3. Note that one of the buttons (should be button 2) contains the text “Twitter/X”
     
-	- To remove this button from the webpage, delete the HTML between the comment that says BUTTON 2 and BUTTON 3.![](https://lh7-us.googleusercontent.com/l7ThuXvYWcPi2cSQuiZvhCLoevKcMoyLh1aIKDBcSr2-CVLZiPu26AK7oLF0d8GPeHaidVaccsMJ8VTmlwb0QuBYYhKxa_m-XB3GNnJFOJkveUyOrYris8vEWv6oFbwybu9G2Uzgtuy-FfUVdDMaf3E)
+	- To remove this button from the webpage, delete the HTML between the comment that says BUTTON 2 and BUTTON 3.
+	
+		![](https://lh7-us.googleusercontent.com/l7ThuXvYWcPi2cSQuiZvhCLoevKcMoyLh1aIKDBcSr2-CVLZiPu26AK7oLF0d8GPeHaidVaccsMJ8VTmlwb0QuBYYhKxa_m-XB3GNnJFOJkveUyOrYris8vEWv6oFbwybu9G2Uzgtuy-FfUVdDMaf3E)
     
 4. Save the file, and open `index.html` in a browser.
 5. If the Twitter button is gone, then you've done this part correctly!
@@ -150,7 +152,10 @@ These steps are slightly more condensed because they assume knowledge of basic f
 1. Now, we'll add additional content: Another bullet point to the 'Recent Work' section
 	- You can update this website anytime, so if you want to add another bullet point in a few months, this explains how to do it.
 2. Scroll up to 'EDITME Recent Work'
-3. There are 3 bullet points. Copy and paste the HTML structure of the 3rd bullet point (Everything from `<li>` to `</li>`, including them) to create a 4th bullet point (below the 3rd `</li>)`![](https://lh7-us.googleusercontent.com/2RG0ejv3qwNw7aB0-I8sfmyP67TOsmXfWZmDIov-FjASY5MegmUO751Me_rHpzP4ygikeui69M3z01ov1gsCSGxmQRltd13CSkDXEM7lRoWtlJJuIfdo6jpTw5pv8eVZxX82nysAnvgYbMatF6zy-F4)
+3. There are 3 bullet points. Copy and paste the HTML structure of the 3rd bullet point (Everything from `<li>` to `</li>`, including them) to create a 4th bullet point (below the 3rd `</li>)`
+![](https://lh7-us.googleusercontent.com/2RG0ejv3qwNw7aB0-I8sfmyP67TOsmXfWZmDIov-FjASY5MegmUO751Me_rHpzP4ygikeui69M3z01ov1gsCSGxmQRltd13CSkDXEM7lRoWtlJJuIfdo6jpTw5pv8eVZxX82nysAnvgYbMatF6zy-F4)
+
+
 4. Click the refresh button above the preview window to see these changes
 5. Note how the additional bullet point on the webpage is below the rest, just like where you pasted in the HTML. If you want a bullet point to come before the other bullet points on the webpage, it needs to go before them in the HTML.
 
@@ -168,6 +173,8 @@ These steps are slightly more condensed because they assume knowledge of basic f
      `<a href="assets/resume.pdf">EDITME TEXT HERE</a>`
 7. To verify that your links are correct, you can open `index.html` in a web browser. All the links you've edited should now function correctly. Also verify that `index.html` is saved and then refresh your browser if something isn't updated.
 
+Continue to the [publishing your website for free](#publishing-your-website-for-free) section
+
 ***
 
 # Publishing your website for free
@@ -179,12 +186,23 @@ INCOMPLETE - IGNORE THIS FOR NOW
 2. If you are familiar with creating a repo from the command line or your IDE, skip ahead to step X, otherwise continue on the GitHub website.
 3. In the top right hand corner, click the `+` icon and the 'New Repository' link
 4. Name your repository 'username.github.io'
+
    ![](https://lh7-us.googleusercontent.com/Oxfs19CQs7UHo94_PkEpbk_nm9Ju6_Yu8lvqW32CnXaOG_TtJA13Y-Tl1Zz2OzvSzD340U3iNszB60Q3qAgGoI8EvKldBIXYTJwguFcujIJ4BI5Ow0lMBslctNiq3akgBjcJC8vuIQtzFNBf5wmwMbU)
+
+
 5. Leave it on public settings for now. To change it to private, you must have GitHub Pro which can be unlocked for free by adding your school email and registering [here](https://education.github.com/discount_requests/application). Approval may take a few days.
 6. Ignore the other settings and 'Create repository'
-7. Click the link to 'upload an existing file'   ![](https://lh7-us.googleusercontent.com/-VjpL7s2a__HIp06VGJMyaIIF-DWpM-lmqyVXWdLTfzTPY02RODA7cfbSxgN_DrvkNWTjo-Yxcn_iro4dZz40_Oy5WtuZPFe3veS8T69SzbQKJjMZmvT5giqCDRY-HmRSCzuDWBPB4Og3AB6x7V51KE)
+7. Click the link to 'upload an existing file'  
+
+	 ![](https://lh7-us.googleusercontent.com/-VjpL7s2a__HIp06VGJMyaIIF-DWpM-lmqyVXWdLTfzTPY02RODA7cfbSxgN_DrvkNWTjo-Yxcn_iro4dZz40_Oy5WtuZPFe3veS8T69SzbQKJjMZmvT5giqCDRY-HmRSCzuDWBPB4Og3AB6x7V51KE)
+
+
 8. On the next page, click choose your files and navigate to the folder you originally created in step 1. Select ALL the files and folders within the folder that you created (including `assets` and `index.html`) and upload them
 9. Wait for GitHub to finish uploading them, then scroll down and click the green "Commit changes" button
 10. Once it's finished, navigate to the repository settings:
+
+
     ![](https://lh7-us.googleusercontent.com/O7ObxMfWQkYl_tZo9tfX7zx9-t6NFGtwEhlm_ArdnSPD6_gtF4itmT4ZXHNZhApk_dK42jXB5pi4js8KV-S1LsGlRBIMEy01_5PBCcIREHsaO4heH-DXN3AmDRF9QzQJRU-oUCCXSprLR8aMTXMl5B8)
+
+
 11. On the left side, in the 'Code and automation' category, go to the 'Pages' section
