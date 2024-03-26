@@ -2,20 +2,20 @@
 ## Contents
 - Tutorial without a code editor
 	- [Getting Started](#getting-started-without-a-code-editor-like-vscode-xcode-etc)
-	- [Removing Buttons & Content](#Removing-Buttons-&-Content-(Twitter))
-	- [Editing Links 1](#Editing Links (Email))
-	- [Editing Links 2](#Editing Links (External Website))
-	- [Adding Content](#Adding Content (Bullet Points))
-	- [Editing Content](#Editing Content (Resume))
+	- [Removing Buttons & Content](#removing-buttons--content-twitter)
+	- [Editing Links 1](#editing-links-email)
+	- [Editing Links 2](#editing-links-external-website)
+	- [Adding Content](#adding-content-bullet-points)
+	- [Editing Content](#editing-content-resume)
 - Tutorial with a code editor
-	- [Getting Started](#Getting Started *with* a code editor like VSCode, XCode, etc)
-	- [Removing Buttons & Content](#Removing Buttons & Content (Twitter))
-	- [Editing Links 1](#Editing Links (Email))
-	- [Editing Links 2](#Editing Links (External Website))
-	- [Adding Content](#Adding Content (Bullet Points))
-	- [Editing Content](#Editing Content (Resume))
+	- [Getting Started](#getting-started-with-a-code-editor-like-vscode-xcode-etc)
+	- [Removing Buttons & Content](#removing-buttons--content-twitter-1)
+	- [Editing Links 1](#editing-links-email-1)
+	- [Editing Links 2](#editing-links-external-website-1)
+	- [Adding Content](#adding-content-bullet-points-1)
+	- [Editing Content](#editing-content-resume-1)
 - Publishing your website for free
-	- [GitHub Pages](#Using GitHub Pages)
+	- [GitHub Pages](#using-github-pages)
 	- incomplete section
 
 ***
