@@ -155,8 +155,10 @@ These steps are slightly more condensed because they assume knowledge of basic f
 1. Create a project folder on your computer
 
 2. Do not simply clone [this repo](https://github.com/ayoung5555/personal-website-guide.git):
-	
-	- Instead, select `Download ZIP` under the green `Code` dropdown button
+
+ 	- Option 1 is to fork the repo and clone. If you're not familiar with this, continue below.
+
+	- Select `Download ZIP` under the green `Code` dropdown button
 
 	- This is so you do not have to deal with changing the git remote settings and will save you time
 
